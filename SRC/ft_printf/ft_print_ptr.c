@@ -12,7 +12,7 @@
 
 #include "ft_printf.h"
 
-void	ft_print_ptr(void *ptr, int *count // I need to pass the pointer for global scope
+void	ft_print_ptr(void *ptr, int *count) // I need to pass the pointer for global scope
 {
 	unsigned long	nbr;
 
