@@ -1,0 +1,15 @@
+# Object files
+*.o
+
+# Library files
+*.a
+
+# Executables
+*.out
+
+# macOS
+.DS_Store
+
+# Temporary files
+*~
+*.tmp 
